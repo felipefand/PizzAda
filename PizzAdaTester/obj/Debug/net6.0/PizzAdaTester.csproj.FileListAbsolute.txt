@@ -1,0 +1,15 @@
+E:\Projetos Top Coders\PizzAda\PizzAdaTester\bin\Debug\net6.0\PizzAdaTester.exe
+E:\Projetos Top Coders\PizzAda\PizzAdaTester\bin\Debug\net6.0\PizzAdaTester.deps.json
+E:\Projetos Top Coders\PizzAda\PizzAdaTester\bin\Debug\net6.0\PizzAdaTester.runtimeconfig.json
+E:\Projetos Top Coders\PizzAda\PizzAdaTester\bin\Debug\net6.0\PizzAdaTester.dll
+E:\Projetos Top Coders\PizzAda\PizzAdaTester\bin\Debug\net6.0\PizzAdaTester.pdb
+E:\Projetos Top Coders\PizzAda\PizzAdaTester\obj\Debug\net6.0\PizzAdaTester.csproj.AssemblyReference.cache
+E:\Projetos Top Coders\PizzAda\PizzAdaTester\obj\Debug\net6.0\PizzAdaTester.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos Top Coders\PizzAda\PizzAdaTester\obj\Debug\net6.0\PizzAdaTester.AssemblyInfoInputs.cache
+E:\Projetos Top Coders\PizzAda\PizzAdaTester\obj\Debug\net6.0\PizzAdaTester.AssemblyInfo.cs
+E:\Projetos Top Coders\PizzAda\PizzAdaTester\obj\Debug\net6.0\PizzAdaTester.csproj.CoreCompileInputs.cache
+E:\Projetos Top Coders\PizzAda\PizzAdaTester\obj\Debug\net6.0\PizzAdaTester.dll
+E:\Projetos Top Coders\PizzAda\PizzAdaTester\obj\Debug\net6.0\refint\PizzAdaTester.dll
+E:\Projetos Top Coders\PizzAda\PizzAdaTester\obj\Debug\net6.0\PizzAdaTester.pdb
+E:\Projetos Top Coders\PizzAda\PizzAdaTester\obj\Debug\net6.0\PizzAdaTester.genruntimeconfig.cache
+E:\Projetos Top Coders\PizzAda\PizzAdaTester\obj\Debug\net6.0\ref\PizzAdaTester.dll
